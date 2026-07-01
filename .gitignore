@@ -1,0 +1,53 @@
+#macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Secrets and credentials
+.env
+*.pem
+*.key
+secrets.py
+config_local.py
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Data files (large files don't belong in git)
+data/
+*.csv
+*.xlsx
+*.parquet
+*.h5
+*.hdf5
+
+# Model files (can be very large)
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
+logs/
