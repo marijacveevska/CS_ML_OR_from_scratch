@@ -153,33 +153,33 @@ Primary sources per session: *A Common-Sense Guide to Data Structures and Algori
 
 ### Week 6 — Arrays, hash maps, stacks, queues
 
-**Wed** — Read Wengrow **Ch. 3 "Big O Notation"** + **Ch. 7 "Blazing Fast Lookup with Hash Tables"**. Practice: LeetCode *Two Sum*, *Contains Duplicate*, *Valid Anagram*.
+**Wed** — Read Wengrow **Ch. 3 "Big O Notation"** + **Ch. 7 "Blazing Fast Lookup with Hash Tables"**. Practice: LeetCode *Two Sum* (1), *Contains Duplicate* (217), *Valid Anagram* (242).
 
-**Fri** — Read Wengrow's chapter on stacks **Ch. 9(Crafting elegant code with "Stacks and Queues")**. Practice: *Valid Parentheses*, *Min Stack*.
+**Fri** — Read Wengrow's chapter on stacks **Ch. 9(Crafting elegant code with "Stacks and Queues")**. Practice: *Valid Parentheses* (20), *Min Stack* (155).
 
-**Sat** — Same chapter, queues/deques half. Practice: *Evaluate Reverse Polish Notation*, *Generate Parentheses*.
+**Sat** — Same chapter, queues/deques half. Practice: *Evaluate Reverse Polish Notation*(150), *Generate Parentheses* (22).
 
-**Sun** — Practice mix: *Group Anagrams*, *Top K Frequent Elements*, *Product of Array Except Self*.
+**Sun** — Practice mix: *Group Anagrams*(49), *Top K Frequent Elements* (347), *Product of Array Except Self* (238).
 
 ### Week 7 — Trees & recursion
 
 **Wed** — Read Wengrow's recursion chapter **Ch. 10** in full. Practice: write `factorial(n)` and `fibonacci(n)` recursively, then trace the call stack on paper for `fibonacci(5)`.
 
-**Fri** — Read Wengrow **Ch. 14 "Node-Based Data Structures"** (binary trees). Practice: *Invert Binary Tree*, *Maximum Depth of Binary Tree*.
+**Fri** — Read Wengrow **Ch. 14 "Node-Based Data Structures"** (binary trees). Practice: *Invert Binary Tree*(226), *Maximum Depth of Binary Tree*(104).
 
-**Sat** — Same chapter continued (BSTs) + Wengrow **Ch. 15** (BST operations). Practice: *Same Tree*, *Subtree of Another Tree*, *Validate Binary Search Tree*.
+**Sat** — Same chapter continued (BSTs) + Wengrow **Ch. 15** (BST operations). Practice: *Same Tree*(100), *Subtree of Another Tree*(572), *Validate Binary Search Tree*(98).
 
-**Sun** — Practice: *Binary Tree Level Order Traversal*, *Lowest Common Ancestor of a BST*, *Kth Smallest Element in a BST*.
+**Sun** — Practice: *Binary Tree Level Order Traversal*(102), *Lowest Common Ancestor of a BST*(235), *Kth Smallest Element in a BST*(230).
 
 ### Week 8 — Graphs
 
-**Wed** — Read Wengrow's graphs chapter **Ch. 18** (near the end of the book) + [NeetCode roadmap: Graphs section](https://neetcode.io/roadmap). Practice: *Number of Islands*.
+**Wed** — Read Wengrow's graphs chapter **Ch. 18** (near the end of the book) + [NeetCode roadmap: Graphs section](https://neetcode.io/roadmap). Practice: *Number of Islands*(200).
 
-**Fri** — Practice BFS specifically: *Clone Graph*, *Max Area of Island*.
+**Fri** — Practice BFS specifically: *Clone Graph*(133), *Max Area of Island*(695).
 
-**Sat** — Practice DFS specifically: *Pacific Atlantic Water Flow*, *Course Schedule*.
+**Sat** — Practice DFS specifically: *Pacific Atlantic Water Flow*(417), *Course Schedule*(207).
 
-**Sun** — Practice mix: *Number of Connected Components*, *Graph Valid Tree*.
+**Sun** — Practice mix: *Number of Connected Components*(), *Graph Valid Tree*().
 
 ---
 
