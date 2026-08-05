@@ -153,7 +153,7 @@ Primary sources per session: *A Common-Sense Guide to Data Structures and Algori
 
 ### Week 6 — Arrays, hash maps, stacks, queues
 
-**Wed** — Read Wengrow **Ch. 3 "Big O Notation"** + **Ch. 7 "Blazing Fast Lookup with Hash Tables"**. Practice: LeetCode *Two Sum* (1), *Contains Duplicate* (217), *Valid Anagram* (242).
+**Wed** — Read Wengrow **Ch. 3 "Big O Notation"** + **Ch. 8 "Blazing Fast Lookup with Hash Tables"**. Practice: LeetCode *Two Sum* (1), *Contains Duplicate* (217), *Valid Anagram* (242).
 
 **Fri** — Read Wengrow's chapter on stacks **Ch. 9(Crafting elegant code with "Stacks and Queues")**. Practice: *Valid Parentheses* (20), *Min Stack* (155).
 
